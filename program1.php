@@ -1,4 +1,4 @@
 <?php
- echo "Tomorrow I'll learn PHP global variables."."\n";
- echo "This is a bad command ."."\n";
+ echo "Tomorrow I'll learn PHP global variables.<br>";
+ echo "This is a bad command .";
  ?>
